@@ -1,2 +1,4 @@
-# Hotel-Management-System
-This project is fully made in java. There is OOP. Inheritane, abstraction, polymorphism and so on.
+# simple-hotel-management-system-java-cli
+Mini Project 
+
+&copy;abdullah-al-munem
