@@ -1,4 +1,4 @@
 # simple-hotel-management-system-java-cli
 Mini Project 
 
-&copy;md. Asif Imtiyaj Chowdhury
+&copy;Md. Asif Imtiyaj Chowdhury with my friend Abdullah Al Munem
